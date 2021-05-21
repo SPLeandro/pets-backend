@@ -26,7 +26,7 @@ O projeto possui todas funcionalidades requeridas, sendo elas:
 - Sequelize; 
 
 Foi desenvolvida uma aplicação web para interação com a API, você pode encontra-la no repositório abaixo:
-- [Repositório frontend](https://github.com/SPLeandro/pets-frontend)
+- [Repositório frontend](https://github.com/SPLeandro/desafio-desenvolvedor-junior)
 
 ## Deploy
 Foi feito a hospedagem do backend na heroku, encontra-se no link: 
