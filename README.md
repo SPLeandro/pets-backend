@@ -49,6 +49,8 @@ npm install
 
 # configurar as variáveis de ambiente
 É necessário configurar as variáveis de ambiente para realizar a conexão com o banco de dados. 
+
+Sugestão: {
 Crie um arquivo .env contendo:
 DB_HOST=HOST
 DB_PORT=PORT
@@ -57,6 +59,7 @@ DB_DIALECT=(mysql recommended)
 DB_USER=user
 DB_PASSWORD=password
 DB_ENCRYPT=false
+}
 
 # executar o projeto
 npm start
